@@ -1,0 +1,5 @@
+Id;Fullname;BirthYear;MateID;FatherID;MotherID
+1;Steve;1977;2;0;0
+2;Mia;1982;1;0;0
+3;Johny;2002;0;1;2
+4;Mark;2007;0;1;2
